@@ -1,0 +1,11 @@
+/Users/surya/Downloads/dandelion_artist/target/debug/deps/ink_metadata-d6f3d973cf30ac5b.rmeta: /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/lib.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/mod.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/validate.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/specs.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/utils.rs
+
+/Users/surya/Downloads/dandelion_artist/target/debug/deps/libink_metadata-d6f3d973cf30ac5b.rlib: /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/lib.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/mod.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/validate.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/specs.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/utils.rs
+
+/Users/surya/Downloads/dandelion_artist/target/debug/deps/ink_metadata-d6f3d973cf30ac5b.d: /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/lib.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/mod.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/validate.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/specs.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/utils.rs
+
+/Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/lib.rs:
+/Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/mod.rs:
+/Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/validate.rs:
+/Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/specs.rs:
+/Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/utils.rs:

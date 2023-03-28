@@ -1,0 +1,11 @@
+/Users/surya/Downloads/dandelion_artist/target/debug/deps/unicode_segmentation-18185468b19edc16.rmeta: /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/lib.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/grapheme.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/sentence.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/word.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/tables.rs
+
+/Users/surya/Downloads/dandelion_artist/target/debug/deps/libunicode_segmentation-18185468b19edc16.rlib: /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/lib.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/grapheme.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/sentence.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/word.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/tables.rs
+
+/Users/surya/Downloads/dandelion_artist/target/debug/deps/unicode_segmentation-18185468b19edc16.d: /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/lib.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/grapheme.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/sentence.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/word.rs /Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/tables.rs
+
+/Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/lib.rs:
+/Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/grapheme.rs:
+/Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/sentence.rs:
+/Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/word.rs:
+/Users/surya/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/tables.rs:

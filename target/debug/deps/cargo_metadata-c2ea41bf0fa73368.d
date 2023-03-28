@@ -1,0 +1,11 @@
+/Users/surya/Downloads/dandelion_artist/target/debug/deps/cargo_metadata-c2ea41bf0fa73368.rmeta: /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/Users/surya/Downloads/dandelion_artist/target/debug/deps/libcargo_metadata-c2ea41bf0fa73368.rlib: /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/Users/surya/Downloads/dandelion_artist/target/debug/deps/cargo_metadata-c2ea41bf0fa73368.d: /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs:
+/Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs:
+/Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs:
+/Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs:
+/Users/surya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs:
